@@ -5,5 +5,9 @@ Why is it just only 48 people, it's because in the website just that information
 Overview for steps i used:
 1. Collected data from website to get the information of famous tiktokstar in the website.
 
-2. Made it with BeautifulSoup library.
+2. Made it with python Jupiter notebooj and BeautifulSoup and Pandas library.
+
+3. And first, I scrapped the information in that page and there's only one page for tiktok famous in that website
+
+4. Then, I scrapped in each name for their biography and background story. And it appears simply in my Google sheets in my website portfolio "fkjsfskj.abcs.com"
 
