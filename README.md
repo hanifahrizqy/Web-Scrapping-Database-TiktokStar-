@@ -10,4 +10,5 @@ Overview for steps i used:
 3. And first, I scrapped the information in that page and there's only one page for tiktok famous in that website
 
 4. Then, I scrapped in each name for their biography and background story. And it appears simply in my Google sheets in my website portfolio "fkjsfskj.abcs.com"
+5. The rest of it you can look the information in the python notebook that i've shared.
 
